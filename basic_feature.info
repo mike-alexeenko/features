@@ -1,4 +1,4 @@
-name = Basic Feature
+name = Basic Feature 
 description = complete site backup
 core = 7.x
 package = Features
